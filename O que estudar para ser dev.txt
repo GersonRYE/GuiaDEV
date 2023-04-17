@@ -1,0 +1,33 @@
+Como eu começaria, do ZERO, um portifolio que torne impossível que recruiters ignorassem meu CV pra uma vaga dev?
+
+Vou dar a resposta mais simples, sem ponderar opções e tal. Isso aqui VAI FUNCIONAR, ok? É isso que queremos ver nos candidatos.
+
+1 - Eu escolheria uma tecnologia: por exemplo, backend java. Milhões de vagas disponíveis distribuídas nos melhores países pra se viver no mundo.
+
+2 - Pegaria algum curso de certificação Java e meteria as caras até começar a passar nos simulados.
+
+3 - Estudaria SQL. Não tem como, SQL vc vai usar *pra sempre*. Todo mundo fala sobre a extinção de todas as linguagens de programação, MENOS do SQL. Não faria nenhum curso a fundo de administração de DB, nem certificação, nesse momento. Apenas focaria em ficar bala no SQL.
+
+4 - Estudaria em alguns cursos os conceitos fundamentais do Springboot. Faria os exercícios até ficar bala, entender os conceitos de inversão de controle, as annotations, etc. Até conseguir conversar fluentemente sobre o que é o Springboot.
+
+5 - Brincaria um pouco com code challenges, só pra aquecer minha cabeça e me dar uma base de algoritmos. Nessa fase inicial de carreira, vc não precisa ser o melhor do mundo, só precisa estar de alguma forma "bem aquecido" pra entrar no mercado.
+
+Se você chegar até aqui, já pode se considerar 99% na frente dos outros juniores. Você já pode conseguir uma vaga.
+
+6 - Imaginaria uma API pra criar e resolver algum problema interessante. Não sei, talvez um task management pra times?
+
+7 - Listaria as funcionalidades que quero incluir: criar lista de tarefa, criar time, atribuir lista pra time, criar task, assignar task pra uma pessoa, status da task (backlog, wip, review, qa, done), mudar status etc.
+
+8 - Desenharia o swagger desses endpoints (se vc não sabe o que é isso, é um tópico pra estudar tb.
+
+9 - Implementaria os endpoints e os testes automatizados. A ponto de poder explicar tudo isso.
+
+Se você chegar até aqui, será um Junior "de ouro", como alguns sobre os quais já publiquei aqui.
+
+10 - Por último, acrescentaria docker e estudaria pra certificação AWS (Edit: Cloud Practitioner Certification, com Stephane Maarek, no Udemy. com - vc pode comprar o curso e os simulados).
+
+11 - Mande sempre seus projetos pro Github, claro. Compartilhe com a galera, faça vídeos no youtube explicando (inclusive em inglês).
+
+Pronto. Se você souber discorrer com tranquilidade sobre todos esses assuntos, e tiver esse portifolio, é *impossível* você ser ignorado pela indústria.
+
+Mão na massa!
